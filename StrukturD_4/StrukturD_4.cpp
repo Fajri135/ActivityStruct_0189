@@ -29,9 +29,11 @@ int main() {
         getline(cin, mhs[i].alamat.kota);
         cout << "Umur Mahasiswa : ";
         cin >> mhs[i].umur;
-        cin.ignore(); 
+        cin.ignore();
         cout << endl;
     }
-
-}
+        for (int i = 0; i < 3; i++) {
+            ;
+        }
+    }
 
